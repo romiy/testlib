@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="testlib.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="79"/>
+        <CursorPos X="55" Y="86"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="67"/>
+        <CursorPos X="29" Y="76"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="48" Y="78"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="149"/>
+        <CursorPos X="6" Y="163"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="11" Column="18"/>
+      </Position1>
+      <Position2>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="15" Column="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="11" Column="11"/>
+      </Position3>
+      <Position4>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="22" Column="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="6" Column="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="23" Column="18"/>
+      </Position6>
+      <Position7>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="20" TopLine="3"/>
+      </Position7>
+      <Position8>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="23" Column="16" TopLine="3"/>
+      </Position8>
+      <Position9>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="23" TopLine="3"/>
+      </Position9>
+      <Position10>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="23" Column="16" TopLine="3"/>
+      </Position10>
+      <Position11>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="20" TopLine="3"/>
+      </Position11>
+      <Position12>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="23" Column="16" TopLine="3"/>
+      </Position12>
+      <Position13>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="15" TopLine="3"/>
+      </Position13>
+      <Position14>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="6" Column="20" TopLine="3"/>
+      </Position14>
+      <Position15>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="21" Column="29" TopLine="3"/>
+      </Position15>
+      <Position16>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="28" TopLine="3"/>
+      </Position16>
+      <Position17>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="22" Column="17" TopLine="3"/>
+      </Position17>
+      <Position18>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="41" TopLine="3"/>
+      </Position18>
+      <Position19>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="22" Column="29" TopLine="3"/>
+      </Position19>
+      <Position20>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="20" Column="19" TopLine="3"/>
+      </Position20>
+      <Position21>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="21" Column="13" TopLine="5"/>
+      </Position21>
+      <Position22>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="18" Column="7" TopLine="2"/>
+      </Position22>
+      <Position23>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="60" TopLine="34"/>
+      </Position23>
+      <Position24>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="30" Column="37" TopLine="12"/>
+      </Position24>
+      <Position25>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="95" Column="43" TopLine="79"/>
+      </Position25>
+      <Position26>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="9" Column="32"/>
+      </Position26>
+      <Position27>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="11" Column="6"/>
+      </Position27>
+      <Position28>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="63" Column="24" TopLine="42"/>
+      </Position28>
+      <Position29>
+        <Filename Value="testlib.lpr"/>
+        <Caret Line="94" Column="35" TopLine="80"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
